@@ -6,32 +6,54 @@ Rules:
 
 Enjoy!
 
-How many chips would you like to bet? 54
+How many chips would you like to bet? 65
 
 Dealers hand: 
 <card hidden>
-Four of Diamonds
+Jack of Clubs
 
 
 Players hand: 
-Jack of Spades
-Two of Hearts
+Ten of Spades
+Two of Spades
 ________________________
 Would you like to Hit or Stand? Enter h or s h
-h
 
 Dealers hand: 
 <card hidden>
-Four of Diamonds
+Jack of Clubs
 
 
 Players hand: 
-Jack of Spades
-Two of Hearts
-King of Spades
+Ten of Spades
+Two of Spades
+Seven of Hearts
 ________________________
-You BUST!
+Would you like to Hit or Stand? Enter h or s s
+Player stands. Dealer is playing.
 
- Player's chips: 46
+Dealers hand: 
+<card hidden>
+Jack of Clubs
+
+
+Players hand: 
+Ten of Spades
+Two of Spades
+Seven of Hearts
+________________________
+
+Dealers hand: 
+Six of Diamonds
+Jack of Clubs
+King of Hearts
+
+Players hand: 
+Ten of Spades
+Two of Spades
+Seven of Hearts
+Player wins! Dealer busted!
+
+ Player's chips: 165
 Would you like to play again? y or n: n
 Thank you for playing!
