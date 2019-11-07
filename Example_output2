@@ -1,0 +1,44 @@
+Welcome to Blackjack!
+Rules:
+-Goal of the game is to get as close to 21 as possible without going over.
+-Dealer hits until they're at 17 or above.
+-You start with 100 chips.
+
+Enjoy!
+
+How many chips would you like to bet? 32
+
+Dealers hand: 
+<card hidden>
+Three of Hearts
+
+
+Players hand: 
+Queen of Hearts
+King of Hearts
+Would you like to Hit or Stand? Enter h or s: s
+_______________________________________________
+Player stands. Dealer is playing.
+
+Dealers hand: 
+<card hidden>
+Three of Hearts
+
+
+Players hand: 
+Queen of Hearts
+King of Hearts
+
+Dealers hand: 
+Four of Clubs
+Three of Hearts
+Ace of Diamonds
+
+Players hand: 
+Queen of Hearts
+King of Hearts
+Player wins!
+
+ Player's chips: 132
+Would you like to play again? y or n: n
+Thank you for playing!
