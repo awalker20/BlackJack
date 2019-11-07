@@ -111,7 +111,6 @@ def hit_or_stand(deck, hand):
 
     while True:
         x = input("Would you like to Hit or Stand? Enter h or s ")
-        print(x)
 
         if x == "h":
             hit(deck, hand)  # hit() function defined above
