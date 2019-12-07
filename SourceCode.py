@@ -49,7 +49,7 @@ class Hand:
         self.aces = 0  # keep track of aces in hand
 
     def add_card(self, card):
-        # card passed in from Deck.deal() --> single Card( has suit and rank)
+        # card passed in from Deck.deal() --> single Card
         self.cards.append(card)
         # use card rank to look up value of card
         self.value += values[card.rank]
